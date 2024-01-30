@@ -3,10 +3,11 @@
 <h2>Description</h2>
 Trained a Random Forest to predict if the S&P will be above it's 20 simple moving average in five days time.
 <h2>Results</h2>
-Test Accuracy: <br>
-Test Precission:
+Test Accuracy: 76%<br>
+Test Precission: 85% <br>
+Classification Matrix:
 
-![Drag Racing](Dragster.jpg)
+![Classification Matrix](Figure_1.png)
 
 
 
@@ -17,6 +18,4 @@ Test Precission:
 
 - <b>Python</b>
 
-
-<h2>Results</h2>
 
